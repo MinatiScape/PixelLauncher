@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="all_set_page_background">#ff000000</color>
+    <color name="gesture_tutorial_back_arrow_color">#99000000</color>
+    <color name="gesture_tutorial_fake_wallpaper_color">#ff000000</color>
+    <color name="home_settings_header_accent">@android:color/background_floating_device_default_dark</color>
+    <color name="home_settings_header_collapsed">@android:color/Teal_700</color>
+    <color name="home_settings_header_expanded">@android:color/accent_device_default_50</color>
+    <color name="home_settings_thumb_off_color">@android:color/accent_material_dark</color>
+    <color name="home_settings_track_off_color">@android:color/Teal_700</color>
+    <color name="home_settings_track_on_color">@android:color/bright_foreground_light</color>
+    <color name="mock_webpage_url_bar">#ff202124</color>
+    <color name="mock_webpage_url_bar_item">#ff3c4043</color>
+    <color name="qsb_icon_tint_primary">@android:color/btn_default_material_light</color>
+    <color name="qsb_icon_tint_quaternary">@android:color/background_floating_device_default_dark</color>
+    <color name="qsb_icon_tint_secondary">@android:color/background_floating_material_dark</color>
+</resources>
